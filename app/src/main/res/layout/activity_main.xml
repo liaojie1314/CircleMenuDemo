@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/snackbarContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/simpleMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Simple Menu" />
+
+    <Button
+        android:id="@+id/bottomBarMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bottom Bar Menu" />
+
+    <Button
+        android:id="@+id/fabMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FAB Menu" />
+
+</LinearLayout>

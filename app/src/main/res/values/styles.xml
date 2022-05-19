@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Bridge">
+        <item name="colorPrimary">#424242</item>
+        <item name="colorPrimaryDark">#212121</item>
+        <item name="colorAccent">#d32f2f</item>
+    </style>
+
+    <style name="GreenTheme" parent="Theme.MaterialComponents.Bridge">
+        <item name="colorPrimary">#43A047</item>
+        <item name="colorPrimaryDark">#43A047</item>
+        <item name="colorAccent">#43A047</item>
+    </style>
+
+    <style name="BlueTheme" parent="Theme.MaterialComponents.Bridge">
+        <item name="colorPrimary">#4184de</item>
+        <item name="colorPrimaryDark">#4184de</item>
+        <item name="colorAccent">#4184de</item>
+    </style>
+
+</resources>
